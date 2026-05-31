@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#0B1221</color>
+    <color name="card_dark">#1B2538</color>
+    <color name="active_green">#00FF9D</color>
+    <color name="inactive_blue">#00BFFF</color>
+    <color name="text_gray">#8E99AF</color>
+    <color name="status_inactive">#4A5568</color>
+    <color name="result_red">#FF4B4B</color>
+    <color name="result_red_translucent">#33FF4B4B</color>
+    <color name="result_green_translucent">#3300FF9D</color>
+</resources>

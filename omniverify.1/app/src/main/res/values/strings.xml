@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Omni Verify</string>
+    <string name="omni_verify">OMNI VERIFY</string>
+    <string name="protection_active">Protection Active</string>
+    <string name="protection_inactive">Protection Inactive</string>
+    <string name="activate">ACTIVATE</string>
+    <string name="deactivate">DEACTIVATE</string>
+    <string name="tap_to_enable">Tap to enable floating assistant</string>
+    <string name="assistant_active">Floating assistant is now active</string>
+    <string name="security_features">SECURITY FEATURES</string>
+    <string name="ai_detection">AI Detection</string>
+    <string name="identify_synthetic">Identify synthetic content</string>
+    <string name="real_time">Real-time</string>
+    <string name="instant_analysis">Instant analysis</string>
+    <string name="privacy_first">Privacy First</string>
+    <string name="local_processing">Local processing</string>
+</resources>

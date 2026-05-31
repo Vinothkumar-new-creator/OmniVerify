@@ -1,0 +1,29 @@
+# --- Python Ignored Files ---
+OmniVerifyBackend/__pycache__/
+OmniVerifyBackend/*.pyc
+OmniVerifyBackend/venv/
+OmniVerifyBackend/.venv/
+OmniVerifyBackend/.env
+
+# --- Android / Gradle Ignored Files ---
+omniverify.1/.gradle/
+omniverify.1/build/
+omniverify.1/local.properties
+omniverify.1/.idea/
+omniverify.1/*.iml
+omniverify.1/.kotlin/
+omniverify.1/app/build/
+
+# --- Build Artifacts / Binaries ---
+*.apk
+*.aar
+*.jar
+
+# --- System/IDE Ignored Files ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.user
+*.suo
+*.sln

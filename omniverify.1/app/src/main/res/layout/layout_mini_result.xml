@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root_mini_result"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_result_card"
+    android:elevation="12dp"
+    android:orientation="vertical"
+    android:padding="18dp"
+    android:clickable="true"
+    android:focusable="true">
+
+    <!-- Header row: icon + label + close -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <!-- Shield/result icon -->
+        <ImageView
+            android:id="@+id/ivMiniIcon"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:src="@drawable/ic_shield"
+            app:tint="@color/active_green" />
+
+        <!-- "AI Generated" or "Real / Human Made" -->
+        <TextView
+            android:id="@+id/txt_status"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:text="AI Generated"
+            android:textColor="#FFFFFF"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.02" />
+
+        <!-- Close button -->
+        <ImageView
+            android:id="@+id/btn_close_mini"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:padding="2dp"
+            android:src="@drawable/ic_close"
+            app:tint="#8E99AF" />
+
+    </LinearLayout>
+
+    <!-- Thin divider line -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="10dp"
+        android:background="#1FFFFFFF" />
+
+    <!-- Percentage confidence row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txt_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="92% AI probability"
+            android:textColor="@color/result_red"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <!-- Spacer -->
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1" />
+
+        <!-- "OmniVerify" small label -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OmniVerify"
+            android:textColor="#4A5568"
+            android:textSize="11sp" />
+    </LinearLayout>
+
+</LinearLayout>
