@@ -5,15 +5,15 @@ from PIL import Image, ImageOps
 import io
 import time
 import base64
+import os
 
 app = FastAPI()
 
 # --- CONFIGURATION ---
-SIGHTENGINE_USER="your_actual_user_id_here"
-SIGHTENGINE_SECRET="your_actual_secret_here"
-SAPLING_API_KEY="your_actual_sapling_key_here"
-VIRUSTOTAL_API_KEY = "your_actual_key_here"
-
+SIGHTENGINE_USER = os.environ.get("SIGHTENGINE_USER")
+SIGHTENGINE_SECRET = os.environ.get("SIGHTENGINE_SECRET")
+SAPLING_API_KEY = os.environ.get("SAPLING_API_KEY")
+VIRUSTOTAL_API_KEY = os.environ.get("VIRUSTOTAL_API_KEY")
 # --- 1. IMAGE VERIFICATION (Sightengine) ---
 @app.post("/verify")
 async def verify_image(file: UploadFile = File(...)):
