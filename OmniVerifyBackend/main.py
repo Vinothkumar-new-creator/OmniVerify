@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
 import io
 import time
+import base64
 
 app = FastAPI()
 
