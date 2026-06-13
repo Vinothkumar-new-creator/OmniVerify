@@ -222,7 +222,7 @@ async def verify_qr(payload: dict = Body(...)):
             "status": "success",
             "is_malicious": True,
             "threat_counts": {"malicious": 1, "phishing": 0, "suspicious": 1},
-            "verdict": "DANGEROUS_SCRIPT"  // Alerts your UI red status configuration
+            "verdict": "DANGEROUS_SCRIPT"  # Alerts your UI red status configuration
         }
     
     # Route Step 3: If clean of scripts, run normal Natural Language verification via Sapling
