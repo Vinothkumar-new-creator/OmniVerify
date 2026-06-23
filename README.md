@@ -1,6 +1,12 @@
+
+
+
+
 # 🛡️ OmniVerify
 
 **OmniVerify** is an Android app that helps you spot AI-generated images, deepfakes, phishing links, and malicious QR codes — without ever leaving the app you're in. A floating assistant overlays on top of WhatsApp, Instagram, or any other app, so you can crop, scan, and verify suspicious content the moment you see it.
+
+https://github.com/user-attachments/assets/56b0dd4b-45ed-4311-8958-e28739e622a3
 
 ---
 
