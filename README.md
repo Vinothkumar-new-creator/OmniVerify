@@ -46,7 +46,7 @@ Every scan is saved locally on-device (Room database) so you can revisit past re
 ## 🚀 Getting Started
 
 ### Download
-Grab the latest APK from the [Releases](https://github.com/YOUR_USERNAME/omniverify/releases) page.
+Grab the latest APK from the [Download apk](https://github.com/Vinothkumar-new-creator/OmniVerify/raw/refs/heads/main/omniverify.apk) page.
 
 ### Build from Source
 ```bash
