@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Scan history (URLs, pasted text, verdicts) is stored locally in the
+   "omniverify_database" Room database and currently is NOT encrypted at
+   rest. Until that's added, we exclude it from cloud backups and
+   device-to-device transfer so it isn't copied somewhere outside the
+   user's original device.
+   See https://developer.android.com/about/versions/12/backup-restore#xml-changes
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="database" />
+    </device-transfer>
+</data-extraction-rules>

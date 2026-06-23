@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_omni_logo.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_omni_logo.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_lock.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_link.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_link.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/xml_file_paths.xml.flat",
+        "source": "com.omniverify.app-main-41:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_circle_inactive.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_circle_inactive.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_layout_crop_overlay.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/layout_crop_overlay.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_result_card_human.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_result_card_human.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_circle_active.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_circle_active.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_circular_progress_bar.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/circular_progress_bar.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_layout_floating_assistant.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/layout_floating_assistant.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_result_card_partial.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_result_card_partial.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_link_scanner.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_link_scanner.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_activity_scanner_base.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/activity_scanner_base.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_text_scanner.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_text_scanner.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_upload_cloud.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_upload_cloud.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_layout_processing_float.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/layout_processing_float.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_home.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_activity_result.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_status_badge.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_status_badge.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_feature_card.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_feature_card.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_check.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_search.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_dot_active.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_dot_active.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_shield.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_shield.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/xml_backup_rules.xml.flat",
+        "source": "com.omniverify.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_item_scan_history.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/item_scan_history.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_qr_code.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_qr_code.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_circle_dark.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_circle_dark.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_image_scanner.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_image_scanner.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/color_nav_item_color.xml.flat",
+        "source": "com.omniverify.app-main-41:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_floating_assistant.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_floating_assistant.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_result_card.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_result_card.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_outline_circle.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_outline_circle.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_circle_light.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_circle_light.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_camera.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_image.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_power.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_power.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_bolt.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_bolt.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_activity_main.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_activity_multimedia.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/activity_multimedia.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_result_card_ai.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_result_card_ai.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_check_shield.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_check_shield.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_gallery.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_gallery.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_close.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_multimedia.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_multimedia.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_layout_mini_result.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/layout_mini_result.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_dot_inactive.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_dot_inactive.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.omniverify.app-main-41:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.omniverify.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_bg_circle_outer.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/bg_circle_outer.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_qr_scanner.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_qr_scanner.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_scan.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_scan.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_menu.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_activity_splash.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.omniverify.app-main-41:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_eye.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/drawable_ic_text.xml.flat",
+        "source": "com.omniverify.app-main-41:/drawable/ic_text.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_dialog_text_analysis.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/dialog_text_analysis.xml"
+    },
+    {
+        "merged": "com.omniverify.app-release-40:/layout_dialog_link_analysis.xml.flat",
+        "source": "com.omniverify.app-main-41:/layout/dialog_link_analysis.xml"
+    }
+]

@@ -1,0 +1,8 @@
+com.omniverify.app-pngs-0 D:\pdf\omniverify project\app\build\generated\res\pngs\release
+com.omniverify.app-resValues-1 D:\pdf\omniverify project\app\build\generated\res\resValues\release
+com.omniverify.app-updated_navigation_xml-2 D:\pdf\omniverify project\app\build\generated\updated_navigation_xml\release
+com.omniverify.app-packageReleaseResources-3 D:\pdf\omniverify project\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.omniverify.app-packageReleaseResources-4 D:\pdf\omniverify project\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.omniverify.app-release-5 D:\pdf\omniverify project\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.omniverify.app-main-6 D:\pdf\omniverify project\app\src\main\res
+com.omniverify.app-release-7 D:\pdf\omniverify project\app\src\release\res

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/item_scan_history.xml",
+        "source": "com.omniverify.app-main-41:/layout/item_scan_history.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/layout_processing_float.xml",
+        "source": "com.omniverify.app-main-41:/layout/layout_processing_float.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/activity_result.xml",
+        "source": "com.omniverify.app-main-41:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/activity_scanner_base.xml",
+        "source": "com.omniverify.app-main-41:/layout/activity_scanner_base.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/layout_floating_assistant.xml",
+        "source": "com.omniverify.app-main-41:/layout/layout_floating_assistant.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/dialog_text_analysis.xml",
+        "source": "com.omniverify.app-main-41:/layout/dialog_text_analysis.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/layout_mini_result.xml",
+        "source": "com.omniverify.app-main-41:/layout/layout_mini_result.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/activity_multimedia.xml",
+        "source": "com.omniverify.app-main-41:/layout/activity_multimedia.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/activity_splash.xml",
+        "source": "com.omniverify.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/layout_crop_overlay.xml",
+        "source": "com.omniverify.app-main-41:/layout/layout_crop_overlay.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/activity_main.xml",
+        "source": "com.omniverify.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.omniverify.app-mergeReleaseResources-39:/layout/dialog_link_analysis.xml",
+        "source": "com.omniverify.app-main-41:/layout/dialog_link_analysis.xml"
+    }
+]

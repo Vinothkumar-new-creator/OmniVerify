@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Outer Glow/Ring -->
+    <path
+        android:pathData="M60,10C32.4,10 10,32.4 10,60s22.4,50 50,50s50,-22.4 50,-50S87.6,10 60,10zM60,105c-24.8,0 -45,-20.2 -45,-45s20.2,-45 45,-45s45,20.2 45,45S84.8,105 60,105z"
+        android:fillAlpha="0.2">
+        <gradient
+            android:startColor="#00BFFF"
+            android:endColor="#00FF9D"
+            android:type="linear"
+            android:startX="10"
+            android:startY="10"
+            android:endX="110"
+            android:endY="110"/>
+    </path>
+
+    <!-- Main Shield Body -->
+    <path
+        android:pathData="M60,25L30,38v25c0,18.5 12.8,35.8 30,40c17.2,-4.2 30,-21.5 30,-40V38L60,25z">
+        <gradient
+            android:startColor="#00BFFF"
+            android:endColor="#0080FF"
+            android:type="linear"
+            android:startX="30"
+            android:startY="25"
+            android:endX="90"
+            android:endY="103"/>
+    </path>
+
+    <!-- Shield Inner Detail (Reflective look) -->
+    <path
+        android:pathData="M60,30L35,41v22c0,15.5 10.7,29.9 25,33.4c14.3,-3.5 25,-17.9 25,-33.4V41L60,30z"
+        android:fillAlpha="0.1"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- The "Check" Mark -->
+    <path
+        android:pathData="M52,72l-12,-12l4,-4l8,8l18,-18l4,4z"
+        android:fillColor="#FFFFFF"/>
+
+</vector>

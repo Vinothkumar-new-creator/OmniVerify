@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Legacy backup rules for devices on API < 31 (ignored on API 31+, where
+   data_extraction_rules.xml applies instead). Excludes the unencrypted
+   scan-history database for the same reason as above.
+   See https://developer.android.com/guide/topics/data/autobackup
+-->
+<full-backup-content>
+    <exclude domain="database" />
+</full-backup-content>
